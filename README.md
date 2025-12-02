@@ -8,8 +8,6 @@
   🚀 Consistency • 💡 Logic Building • 🧠 DSA Mastery  
 </p>
 
-
-
 # 📘 GFG 160 Days of DSA
 
 
@@ -43,10 +41,6 @@ This repository is a personal commitment to mastering DSA through consistent pra
 - **Language**: Python 🐍  
 - **Platform**: GeeksforGeeks  
 - **Tools**: Git, GitHub, VS Code
-
----
-
----
 
 ## ⭐ Badges
 
