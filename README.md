@@ -38,7 +38,7 @@ This repository is a personal commitment to mastering DSA through consistent pra
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language**: Python 🐍  
 - **Platform**: GeeksforGeeks  
@@ -66,20 +66,15 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📣 Connect with Me
+## 🤝 Let's Connect!
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
 
+</div>
 
-  <a href="https://github.com/shriram7057" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
-  </a>
-</p>
-
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
