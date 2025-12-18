@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" style="margin-right:5px;" />
-  
   <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Py%20for%20DSA%20160.gif?raw=true" width="240" />
 </p>
 
 <h1 align="center">I Completed the GeeksforGeeks 160 Days of Problem-Solving Challenge! 🏆</h1>
