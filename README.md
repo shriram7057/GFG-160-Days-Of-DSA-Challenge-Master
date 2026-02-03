@@ -1,76 +1,201 @@
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" style="margin-right:5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" />
   <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="140" />
   <img src="https://github.com/shriram7057/shriram7057/blob/main/Py%20for%20DSA%20160.gif?raw=true" width="240" />
 </p>
 
-<h1 align="center">I Completed the GeeksforGeeks 160 Days of Problem-Solving Challenge! 🏆</h1>
+<h1 align="center">🏆 GeeksforGeeks 160 Days of DSA Challenge</h1>
 
 <p align="center">
-  🚀 Consistency • 💡 Logic Building • 🧠 DSA Mastery  
+  🚀 Consistency &nbsp;•&nbsp; 💡 Logic Building &nbsp;•&nbsp; 🧠 DSA Mastery
 </p>
 
-# 📘 GFG 160 Days of DSA
+<hr>
 
+<!-- ===================== INTRO ===================== -->
+<h2>📘 About This Repository</h2>
 
-A structured journey through Data Structures & Algorithms inspired by GeeksforGeeks' 160-day challenge. This repository contains Python solutions to daily problems, helping learners build strong foundations and prepare for coding interviews.
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th align="left">Field</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td>Challenge</td>
+    <td>GeeksforGeeks 160 Days of Problem Solving</td>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td>Python 🐍</td>
+  </tr>
+  <tr>
+    <td>Purpose</td>
+    <td>Build strong DSA fundamentals & prepare for coding interviews</td>
+  </tr>
+  <tr>
+    <td>Difficulty</td>
+    <td>Easy → Medium → Hard</td>
+  </tr>
+  <tr>
+    <td>Structure</td>
+    <td>Daily problem-wise folders</td>
+  </tr>
+</table>
 
----
+<br>
 
-## 🧠 About This Repository
+<!-- ===================== TOPICS ===================== -->
+<h2>📌 Topics Covered</h2>
 
-This repository is a personal commitment to mastering DSA through consistent practice. Each folder contains solutions to problems from the corresponding day, following the official [GeeksforGeeks 160 Days DSA Plan](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters)).
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Sr. No</th>
+    <th>Topic</th>
+  </tr>
+  <tr><td>1</td><td>Arrays & Strings</td></tr>
+  <tr><td>2</td><td>Linked Lists</td></tr>
+  <tr><td>3</td><td>Stacks</td></tr>
+  <tr><td>4</td><td>Queues</td></tr>
+  <tr><td>5</td><td>Trees</td></tr>
+  <tr><td>6</td><td>Graphs</td></tr>
+  <tr><td>7</td><td>Recursion</td></tr>
+  <tr><td>8</td><td>Backtracking</td></tr>
+  <tr><td>9</td><td>Dynamic Programming</td></tr>
+  <tr><td>10</td><td>Greedy Algorithms</td></tr>
+  <tr><td>11</td><td>Searching</td></tr>
+  <tr><td>12</td><td>Sorting</td></tr>
+  <tr><td>13</td><td>Bit Manipulation</td></tr>
+  <tr><td>14</td><td>Hashing</td></tr>
+  <tr><td>15</td><td>Sliding Window</td></tr>
+</table>
 
----
+<br>
 
-## 📌 Topics Covered
+<!-- ===================== TECH STACK ===================== -->
+<h2>🛠 Tech Stack</h2>
 
-- Arrays & Strings  
-- Linked Lists  
-- Stacks & Queues  
-- Trees & Graphs  
-- Recursion & Backtracking  
-- Dynamic Programming  
-- Greedy Algorithms  
-- Searching & Sorting  
-- Bit Manipulation  
-- Hashing & Sliding Window
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>Programming Language</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>Platform</td>
+    <td>GeeksforGeeks</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git</td>
+  </tr>
+  <tr>
+    <td>Repository Hosting</td>
+    <td>GitHub</td>
+  </tr>
+  <tr>
+    <td>Editor</td>
+    <td>VS Code</td>
+  </tr>
+</table>
 
----
+<br>
 
-##  Tech Stack
+<!-- ===================== BADGES ===================== -->
+<h2>⭐ Badges</h2>
 
-- **Language**: Python 🐍  
-- **Platform**: GeeksforGeeks  
-- **Tools**: Git, GitHub, VS Code
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Badge</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Python 3.x</td>
+    <td>Primary programming language</td>
+  </tr>
+  <tr>
+    <td>160 Days DSA</td>
+    <td>Completed structured DSA challenge</td>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td>Practice platform</td>
+  </tr>
+  <tr>
+    <td>MIT License</td>
+    <td>Open source license</td>
+  </tr>
+</table>
 
-## ⭐ Badges
+<br>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-160%20Days-green)  
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Challenge-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+<!-- ===================== CONTRIBUTING ===================== -->
+<h2>🙌 Contributing</h2>
 
----
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Contribution Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Alternate Solutions</td>
+    <td>Add different approaches to problems</td>
+  </tr>
+  <tr>
+    <td>Optimization</td>
+    <td>Improve time and space complexity</td>
+  </tr>
+  <tr>
+    <td>Bug Fixes</td>
+    <td>Fix errors or edge cases</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>Improve explanations or formatting</td>
+  </tr>
+</table>
 
-## 🙌 Contributing
+<br>
 
-Contributions are welcome! Feel free to:
-- Add alternate solutions
-- Improve code readability
-- Fix bugs or typos
+<!-- ===================== CONNECT ===================== -->
+<h2>🤝 Let’s Connect</h2>
 
----
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th>Platform</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/shriram7057">shriram7057</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/shriram-lahane/">shriram-lahane</a></td>
+  </tr>
+  <tr>
+    <td>LeetCode</td>
+    <td><a href="https://leetcode.com/u/shriram_lahane/">shriram_lahane</a></td>
+  </tr>
+  <tr>
+    <td>Instagram</td>
+    <td><a href="https://instagram.com/pvy.shree_01">pvy.shree_01</a></td>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td><a href="https://www.geeksforgeeks.org/profile/shriram01">shriram01</a></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:lahaneshriram2@gmail.com">lahaneshriram2@gmail.com</a></td>
+  </tr>
+</table>
 
-## 🤝 Let's Connect!
-<div align="center">
+<hr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
-
-</div>
-
+<p align="center">
+  🚀 <b>Consistency beats talent when talent doesn’t stay consistent.</b>
+</p>
